@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohammad Salah - 153043</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website Portfolio</h1>
+    </header>
+    <section class="main-content">
+        <div class="profile">
+            <h2>Mohammad Salah</h2>
+            <p>Major: Cyber Security</p>
+            <p>Email:<a href="mailto:misalah21@cit.just.edu.jo">misalah21@cit.just.edu.jo</a> </p>
+            <h3>Soft Skills:</h3>
+            <ul>
+                <li>TeamWorking</li>
+				<li>TeamLeader</li>
+                <li>HardWorker</li>
+                <li>Self learner</li>
+                <li>Problem Solving</li>
+            </ul>
+            <img src="mohammad.jpg" alt="My Image">
+        </div>
+        <div class="languages">
+            <h2>Favorite Programming Languages</h2>
+            <table>
+                <tr>
+                    <th>Language</th>
+                    <th>Link</th>
+                </tr>
+                <tr>
+                    <td>Python</td>
+                    <td><a href="https://www.python.org/doc/essays/blurb/">More Info</a></td>
+                </tr>
+                <tr>
+                    <td>C++</td>
+                    <td><a href="https://www.w3schools.com/cpp/cpp_intro.asp">More Info</a></td>
+                </tr>
+                <tr>
+                    <td>Assemblyx86</td>
+                    <td><a href="https://en.wikipedia.org/wiki/X86_assembly_language">More Info</a></td>
+                </tr>
+            </table>
+        </div>
+    </section>
+    <footer>
+        <p><a href="Contact Me.html">Contact me</p>
+    </footer>
+</body>
+</html>
